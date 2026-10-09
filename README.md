@@ -1,6 +1,6 @@
-# FormCue Legal Pages
+# Tenicue Legal Pages
 
-Public privacy, support, and terms pages for the FormCue mobile app.
+Public privacy, support, and terms pages for the Tenicue mobile app.
 
 - Privacy: https://rjf5768.github.io/awsus-app-legalpages/privacy/
 - Support: https://rjf5768.github.io/awsus-app-legalpages/support/
